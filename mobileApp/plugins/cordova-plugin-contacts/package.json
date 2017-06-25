@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-contacts@~2.0.1",
+      "/home/marley/Área de Trabalho/apps/f7-phonegap-template/mobileApp"
+    ]
+  ],
+  "_from": "cordova-plugin-contacts@>=2.0.1 <2.1.0",
+  "_id": "cordova-plugin-contacts@2.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-contacts",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "email": "stevengill97@gmail.com",
+    "name": "stevegill"
+  },
+  "_npmVersion": "3.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-contacts",
+    "raw": "cordova-plugin-contacts@~2.0.1",
+    "rawSpec": "~2.0.1",
+    "scope": null,
+    "spec": ">=2.0.1 <2.1.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-contacts/-/cordova-plugin-contacts-2.0.1.tgz",
+  "_shasum": "733c369938f475ea05766c615558f74125698489",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-contacts@~2.0.1",
+  "_where": "/home/marley/Área de Trabalho/apps/f7-phonegap-template/mobileApp",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-contacts/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-contacts",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "firefoxos",
+      "ios",
+      "ubuntu",
+      "windows",
+      "windows8",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Contacts Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "733c369938f475ea05766c615558f74125698489",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-contacts/-/cordova-plugin-contacts-2.0.1.tgz"
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-contacts#readme",
+  "keywords": [
+    "contacts",
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-ubuntu",
+    "cordova-windows",
+    "cordova-windows8",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-contacts",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-contacts.git"
+  },
+  "scripts": {},
+  "version": "2.0.1"
+}

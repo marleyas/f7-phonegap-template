@@ -1,0 +1,122 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-file-transfer@~1.5.0",
+      "/home/marley/Área de Trabalho/apps/f7-phonegap-template/mobileApp"
+    ]
+  ],
+  "_from": "cordova-plugin-file-transfer@>=1.5.0 <1.6.0",
+  "_id": "cordova-plugin-file-transfer@1.5.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-file-transfer",
+  "_nodeVersion": "5.4.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-file-transfer-1.5.1.tgz_1461189865127_0.4585343045182526"
+  },
+  "_npmUser": {
+    "email": "stevengill97@gmail.com",
+    "name": "stevegill"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-file-transfer",
+    "raw": "cordova-plugin-file-transfer@~1.5.0",
+    "rawSpec": "~1.5.0",
+    "scope": null,
+    "spec": ">=1.5.0 <1.6.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-file-transfer/-/cordova-plugin-file-transfer-1.5.1.tgz",
+  "_shasum": "cf9b634e8f3283482802cb5f0b381d40f5465398",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-file-transfer@~1.5.0",
+  "_where": "/home/marley/Área de Trabalho/apps/f7-phonegap-template/mobileApp",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-file-transfer/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-file-transfer",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "browser",
+      "firefoxos",
+      "ios",
+      "ubuntu",
+      "windows",
+      "windows8",
+      "wp7",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova File Transfer Plugin",
+  "devDependencies": {
+    "jscs": "^2.6.0",
+    "jshint": "^2.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "cf9b634e8f3283482802cb5f0b381d40f5465398",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-file-transfer/-/cordova-plugin-file-transfer-1.5.1.tgz"
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-file-transfer#readme",
+  "keywords": [
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-browser",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-ubuntu",
+    "cordova-windows",
+    "cordova-windows8",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova",
+    "file",
+    "transfer"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "nikhilkh",
+      "email": "nikhil.khandelwal@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-file-transfer",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "cordova-plugin-file": "^3.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-file-transfer.git"
+  },
+  "scripts": {
+    "lint": "jshint www && jshint src && jshint tests",
+    "style": "jscs tests/tests.js",
+    "test": "npm run lint && npm run style"
+  },
+  "version": "1.5.1"
+}

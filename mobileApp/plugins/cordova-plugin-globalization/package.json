@@ -1,0 +1,134 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-globalization@~1.0.3",
+      "/home/marley/Área de Trabalho/apps/f7-phonegap-template/mobileApp"
+    ]
+  ],
+  "_from": "cordova-plugin-globalization@>=1.0.3 <1.1.0",
+  "_id": "cordova-plugin-globalization@1.0.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-globalization",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-globalization-1.0.7.tgz_1493685642490_0.06781368516385555"
+  },
+  "_npmUser": {
+    "email": "maj.fil@gmail.com",
+    "name": "filmaj"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-globalization",
+    "raw": "cordova-plugin-globalization@~1.0.3",
+    "rawSpec": "~1.0.3",
+    "scope": null,
+    "spec": ">=1.0.3 <1.1.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-globalization/-/cordova-plugin-globalization-1.0.7.tgz",
+  "_shasum": "b9941848fb5eb5dcd633e6971118fad638f648cf",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-globalization@~1.0.3",
+  "_where": "/home/marley/Área de Trabalho/apps/f7-phonegap-template/mobileApp",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-globalization/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-globalization",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "firefoxos",
+      "ios",
+      "tizen",
+      "ubuntu",
+      "windows",
+      "wp7",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Globalization Plugin",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b9941848fb5eb5dcd633e6971118fad638f648cf",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-globalization/-/cordova-plugin-globalization-1.0.7.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-globalization#readme",
+  "keywords": [
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-tizen",
+    "cordova-ubuntu",
+    "cordova-windows",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova",
+    "globalization"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-globalization",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-globalization.git"
+  },
+  "scripts": {
+    "jshint": "jshint www && jshint src && jshint tests",
+    "test": "npm run jshint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "1.0.7"
+}
